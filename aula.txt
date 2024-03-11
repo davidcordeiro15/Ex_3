@@ -1,0 +1,10 @@
+git init 
+git add.
+git commit -m "Primeiro commit"
+git config --global user.name "David_Cordeiro"
+git config --global user.email "davidcordeiro1507@gmail.com"
+copiar link do repositorio gerado no github 
+git remote add origin -link-
+git push -u origin master 
+
+terceira opção do icone canto inferior esquerdo de conta força a logar em uma conta
